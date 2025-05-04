@@ -1,19 +1,4 @@
-🏏 CWC2023 – Cricket World Cup 2023 Analysis
-Repository: HajarElbehairy/CWC2023
 
-Description: This project analyzes the 2023 Cricket World Cup dataset, focusing on player and team performance metrics across all innings.
-
-Key Files:
-
-CWC2023.ipynb: Jupyter Notebook containing data analysis and visualizations.
-
-CWC23_all_innings.csv: CSV file with detailed match data.
-
-Suggested README.md:
-
-markdown
-Copy
-Edit
 # CWC2023 – Cricket World Cup 2023 Analysis
 
 This repository provides an in-depth analysis of the 2023 Cricket World Cup, utilizing player and team performance data from all innings.
